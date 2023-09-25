@@ -1,0 +1,1 @@
+{"focus": "TUGAS UAS!1!", "notes": "TUGAS BANYAK! JANGAN DRAKOR TEROS!!", "todo": ["Animasi 3D", "PKD", "BK"]}
